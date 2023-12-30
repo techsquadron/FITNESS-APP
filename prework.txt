@@ -1,0 +1,5 @@
+19 Peanut 75
+20 Walnut 100
+21 Carrots 35
+22 Oats 300
+23 Egg_white 17

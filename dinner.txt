@@ -1,0 +1,6 @@
+24 Brown_rice 175
+25 Salmon 225
+26 Beans 100
+27 Sprouts 100
+28 Grilled_chicken 200
+29 Mashed_potatoes 150

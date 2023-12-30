@@ -1,0 +1,6 @@
+7 Sandwich 119
+8 Potato 77
+9 Salad 100
+10 Yogurt 120
+11 Avocado 50
+12 Orange 70

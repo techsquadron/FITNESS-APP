@@ -1,0 +1,6 @@
+13 Broccoli 45
+14 Beef 142
+15 Chicken 136
+16 Rice 130
+17 Pasta 131
+18 Tofu 86

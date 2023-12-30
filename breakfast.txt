@@ -1,0 +1,6 @@
+1 Apple 59
+2 Banana 151
+3 Egg 58
+4 Milk 146
+5 Butter 102
+6 Bread 75
